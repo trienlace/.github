@@ -1,4 +1,4 @@
-![](../assets/trienlace-logo-01.png)
+![](https://raw.githubusercontent.com/trienlace/.github/main/assets/trienlace-logo-01.png)
 
 ## Software. Hardware. Marketing.
 ---
