@@ -1,4 +1,6 @@
-![](https://raw.githubusercontent.com/trienlace/.github/main/assets/trienlace-logo-01.png)
+<p align="center">
+  <img alt="Trienlace C.A." width="512px" src="https://raw.githubusercontent.com/trienlace/.github/main/assets/trienlace-logo-01.png" />
+</p>
 
 ## Software. Hardware. Marketing.
 ---
